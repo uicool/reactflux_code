@@ -1,0 +1,23 @@
+{
+  "name": "reactflux",
+  "version": "1.0.0",
+  "description": "react flux project demo",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessefeng/reactFlux.git"
+  },
+  "author": "jesse feng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessefeng/reactFlux/issues"
+  },
+  "homepage": "https://github.com/jessefeng/reactFlux#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.1"
+  }
+}
