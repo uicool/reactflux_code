@@ -5,7 +5,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import '../style/css/main.css'
 import '../style/sass/main.scss'
-import Layout from "./components/Layout";
+import Layout from "./components/Demo";
 
 const app = document.getElementById('app');
-ReactDOM.render(<Layout/>, app);
+ReactDOM.render(<Demo/>, app);

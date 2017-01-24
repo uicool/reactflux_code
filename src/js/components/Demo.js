@@ -6,7 +6,7 @@ import React from "react";
 import $ from 'jquery';
 
 
-class Layout extends React.Component {
+class Demo extends React.Component {
     constructor() {
         super();
     }
@@ -18,11 +18,11 @@ class Layout extends React.Component {
     render() {
         this.test()
         return (
-            <div className="border-black-bold">
+            <div className="border-black-bold col-lg-1">
                 <span>App Layout Asyn</span>
             </div>
         );
     }
 }
 
-export default Layout;
+export default Demo;
