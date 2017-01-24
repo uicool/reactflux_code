@@ -1,3 +1,5 @@
 .idea/
 reactFlux.iml
 node_modules
+src/client.min.js
+npm-debug.log
